@@ -24,3 +24,7 @@ const WeatherForm = ({ getWeather }) => {
 };
 
 export default WeatherForm;
+
+
+
+
